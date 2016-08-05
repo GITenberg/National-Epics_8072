@@ -1,0 +1,31 @@
+_repo: National-Epics_8072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rabb, Kate Milner
+    aliases:
+    - Rabb, Mrs. Albert
+    - Milner, Kate
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '2625'
+    url: http://www.gutenberg.org/2009/agents/2625
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Epic poetry'
+- GITenberg
+tableOfContents: The Râmâyana -- The Mahâ-bhârata -- The Iliad -- The Odyssey -- The
+  Kalevala -- The Aeneid -- Beowulf -- The Niebelungen lied -- The Song of Roland
+  -- The Shah-nameh -- The Poem of the Cid -- The Divine comedy -- The Orlando Furioso
+  -- The Lusiad -- The Jerusalem delivered -- Paradise lost -- Paradise regained.
+title: National Epics
+url: http://www.gutenberg.org/ebooks/8072
